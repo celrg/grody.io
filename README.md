@@ -1,2 +1,2 @@
 # grody.io
-personal website built using vue.js!
+in progress personal website built using vue.js!
